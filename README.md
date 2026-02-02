@@ -19,7 +19,11 @@
 
 ## What I Do? ᯓ
 
-Computer Science graduate from Bina Nusantara University with a background in data analytics in college, experience as a System Analyst and Data Analyst intern, now consistently focused on Full-Stack Development. Experienced in building scalable web applications using React.js, Node.js, Express.js, PostgreSQL, MongoDB, and Java. Also building REST APIs, implementing JWT and cookie-based authentication/authorization, bcrypt password hashing, and deploying applications including validation and logging. While my background in system analysis and data is still developing, I am currently highly focused on growing as a software developer. Driven by curiosity and a growth mindset, I am eager to pursue developer role and continuously learn new technologies to deliver meaningful solutions for users.
+Computer Science graduate from Bina Nusantara University with academic exposure to data analytics and hands-on experience as a System Analyst and Data Analyst Intern. Currently focused on Full-Stack Development with a strong commitment to building scalable, maintainable, and user-centric web applications.
+
+Proficient in modern technologies including React.js, Node.js, Express.js, PostgreSQL, MongoDB, and Java. Experienced in developing RESTful APIs, implementing secure authentication and authorization (JWT and cookie-based), applying password hashing with bcrypt, and deploying applications with proper validation, logging, and best practices.
+
+Possess strong analytical thinking, problem-solving skills, and a solid understanding of system design gained from both technical and analytical roles. Driven by curiosity, continuous learning, and a growth mindset, I am committed to evolving as a software engineer and delivering impactful, user-centered solutions.
 
 ---
 
