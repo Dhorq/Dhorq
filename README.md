@@ -35,9 +35,9 @@ Possess strong analytical thinking, problem-solving skills, and a solid understa
 
 ---
 
-<h1 align="left">𑣲 Tech Stacks</h1>
+## Tech Stacks 𑣲
 
-<h3 align="left">Frontend Development</h3>
+<h4 align="left">Frontend Development</h4>
 
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -45,7 +45,7 @@ Possess strong analytical thinking, problem-solving skills, and a solid understa
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
 </p>
 
-<h3 align="left">Backend & Database</h3>
+<h4 align="left">Backend & Database</h4>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
@@ -55,7 +55,7 @@ Possess strong analytical thinking, problem-solving skills, and a solid understa
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
 
-<h3 align="left">DevOps & Tools</h3>
+<h4 align="left">DevOps & Tools</h4>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
