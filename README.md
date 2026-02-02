@@ -17,9 +17,9 @@
 
 ---
 
-## What I Do?
+## What I Do? ᯓ
 
-Full-Stack Developer with a background in data analytics and System Analyst internship experience, now focused on building scalable web applications using React.js, Node.js, and Java. Skilled in RESTful APIs and modern web technologies.
+Computer Science graduate from Bina Nusantara University with a background in data analytics in college, experience as a System Analyst and Data Analyst intern, now consistently focused on Full-Stack Development. Experienced in building scalable web applications using React.js, Node.js, Express.js, PostgreSQL, MongoDB, and Java, with strong skills in RESTful APIs and authentication. Eager to contribute as a Developer while continuously learning new technologies.
 
 ---
 
