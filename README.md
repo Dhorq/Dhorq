@@ -8,7 +8,30 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=36FF2D&center=true&vCenter=true&width=435&lines=Hello+there!%F0%9F%91%8B;Welcome+to+my+GitHub!%F0%9F%98%81;I'm+a+passionate+developer!%F0%9F%92%BB;Let's+build+something+together!%F0%9F%9A%80" alt="Typing SVG" />
 </p> -->
 
-<h1 align="left">Tech Stacks</h1>
+<p align="center">
+  <a href="https://dhorqme.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-dhorq-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/ridhorifqymuhammad/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:ridhorifqy34@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://github.com/dhorq"><img src="https://komarev.com/ghpvc/?username=dhorq&color=6366F1&style=for-the-badge" alt="Profile Views"></a>
+</p>
+
+---
+
+## What I Do?
+
+Full-Stack Developer with a background in data analytics and System Analyst internship experience, now focused on building scalable web applications using React.js, Node.js, and Java. Skilled in RESTful APIs and modern web technologies.
+
+---
+
+## Featured Projects ⋆. 𐙚 ˚
+
+- **[Tazkez](https://github.com/Dhorq)** - Task Management App.<br>
+
+[→ View all projects](https://dhorqme.vercel.app/)
+
+---
+
+<h1 align="left">𑣲 Tech Stacks</h1>
 
 <h3 align="left">Frontend Development</h3>
 
@@ -38,3 +61,7 @@
 </p>
 
 ---
+
+<p align="center">
+  "<i>builder.</i>"
+</p>
