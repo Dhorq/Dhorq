@@ -17,7 +17,7 @@
 
 ---
 
-## What I Do? ᯓ
+## Who am I? ᯓ
 
 Computer Science graduate from Bina Nusantara University with academic exposure to data analytics and hands-on experience as a System Analyst and Data Analyst Intern. Currently focused on Full-Stack Development with a strong commitment to building scalable, maintainable, and user-centric web applications.
 
@@ -29,7 +29,8 @@ Possess strong analytical thinking, problem-solving skills, and a solid understa
 
 ## Featured Projects ⋆. 𐙚 ˚
 
-- **[Tazkez](https://github.com/Dhorq)** - Task Management App.<br>
+- **[Tazkez](https://github.com/Dhorq/taskez)** - Task Management App.<br>
+- **[Netflix Clone](https://github.com/Dhorq/netflix-alike)** - Netflix Clone.<br>
 
 [→ View all projects](https://dhorqme.vercel.app/)
 
