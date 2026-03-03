@@ -21,7 +21,7 @@
 
 Computer Science graduate from Bina Nusantara University with academic exposure to data analytics and hands-on experience as a System Analyst and Data Analyst Intern. Currently focused on Full-Stack Development with a strong commitment to building scalable, maintainable, and user-centric web applications.
 
-Proficient in modern technologies including React.js, Node.js, Express.js, PostgreSQL, MongoDB, and Java. Experienced in developing RESTful APIs, implementing secure authentication and authorization (JWT and cookie-based), applying password hashing with bcrypt, and deploying applications with proper validation, logging, and best practices.
+Heavy Golang developer and experienced in building scalable backend systems and full-stack applications using Golang and JavaScript, with primary expertise in Golang. Strong in API development, system design, authentication, and modern web technologies. Passionate about writing clean, efficient, and production-ready code.
 
 Possess strong analytical thinking, problem-solving skills, and a solid understanding of system design gained from both technical and analytical roles. Driven by curiosity, continuous learning, and a growth mindset, I am committed to evolving as a software engineer and delivering impactful, user-centered solutions.
 
