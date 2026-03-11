@@ -67,6 +67,8 @@ Possess strong analytical thinking, problem-solving skills, and a solid understa
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
+---
+
 <div align="center">
   <table>
     <tr>
