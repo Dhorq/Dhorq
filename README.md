@@ -73,7 +73,7 @@ Possess strong analytical thinking, problem-solving skills, and a solid understa
   <table>
     <tr>
       <td valign="center"><a href="#"><img src="https://github-readme-stats-fast.vercel.app/api?username=Dhorq&show_icons=true&include_all_commits=false&theme=buefy&hide_border=true&hide=issues" alt="Dhorq's github stats" /></a></td>
-      <td valign="center"><a href="#"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Dhorq&layout=compact&theme=buefy&hide_border=true" alt="Top Langs" /></a></td>
+      <td valign="center"><a href="#"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Dhorq&layout=compact&theme=buefy&hide_border=true&hide=html,css" alt="Top Langs" /></a></td>
     </tr>
   </table>
 </div>
