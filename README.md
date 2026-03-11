@@ -67,6 +67,15 @@ Possess strong analytical thinking, problem-solving skills, and a solid understa
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
+<div align="center">
+  <table>
+    <tr>
+      <td valign="center"><a href="#"><img src="https://github-readme-stats-fast.vercel.app/api?username=Dhorq&show_icons=true&include_all_commits=false&theme=buefy&hide_border=true&hide=issues" alt="Dhorq's github stats" /></a></td>
+      <td valign="center"><a href="#"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Dhorq&layout=compact&theme=buefy&hide_border=true" alt="Top Langs" /></a></td>
+    </tr>
+  </table>
+</div>
+
 ---
 
 <p align="center">
