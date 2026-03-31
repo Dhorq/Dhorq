@@ -29,7 +29,8 @@ Possess strong analytical thinking, problem-solving skills, and a solid understa
 
 ## Featured Projects ⋆. 𐙚 ˚
 
-- **[Tazkez](https://github.com/Dhorq/taskez)** - Task Management App.<br>
+- **[Job Platform](https://github.com/Dhorq/job-platform)** - Job Platform.<br>
+- **[Tazkez](https://github.com/Dhorq/taskez)** - Task Management.<br>
 - **[Netflix Clone](https://github.com/Dhorq/netflix-alike)** - Netflix Clone.<br>
 - **[SozBoost](https://github.com/Dhorq/SozBoost)** - SozBoost.<br>
 
