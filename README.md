@@ -29,11 +29,11 @@ Possess strong analytical thinking, problem-solving skills, and a solid understa
 
 ## Featured Projects ⋆. 𐙚 ˚
 
-- **[Job Platform](https://github.com/Dhorq/job-platform)** - Job Platform.<br>
-- **[Tasq.](https://github.com/Dhorq/tasq)** - Job Platform.<br>
-- **[SozBoost](https://github.com/Dhorq/SozBoost)** - SozBoost.<br>
-- **[Tazkez](https://github.com/Dhorq/taskez)** - Task Management.<br>
-- **[Netflix Clone](https://github.com/Dhorq/netflix-alike)** - Netflix Clone.<br>
+- **[Job Platform](https://github.com/Dhorq/job-platform)** - Job Platform<br>
+- **[Tasq.](https://github.com/Dhorq/tasq)** - Task Management (Golang)<br>
+- **[Tazkez](https://github.com/Dhorq/taskez)** - Task Management (Javascript)<br>
+- **[SozBoost](https://github.com/Dhorq/SozBoost)** - SozBoost<br>
+- **[Netflix Clone](https://github.com/Dhorq/netflix-alike)** - Netflix Clone<br>
 
 [→ View all projects](https://dhorqme.vercel.app/)
 
